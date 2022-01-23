@@ -5,7 +5,7 @@
 - 👯 I’m looking for intern opportunities as software engineers
 - 🤔 I’m looking for help with AWS
 - 💬 Ask me about anything
-- 📫 How to reach me: Email(dongyang2022@u.northwestern.edu) Wechat(yd970912)
+- 📫 How to reach me: Email(dongyang2022@u.northwestern.edu) Wechat(outskidding)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love snowboarding!
 
