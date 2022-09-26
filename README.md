@@ -1,8 +1,8 @@
 ### Hi There, I'm Dong Yang! Here is What I'm Working On! 👋
 
 - 🔭 I’m currently a master student in Northwestern University majoring in CS 
-- 🌱 I’m currently learning AWS service and NLP and working on some fun projects I built before
-- 👯 I’m looking for intern opportunities as software engineers
+- 🌱 I’m currently learning K8s and also working on some fun projects I built before
+- 👯 I’m looking for entry-level full-time opportunities as software engineers
 - 🤔 I’m looking for help with AWS
 - 💬 Ask me about anything
 - 📫 How to reach me: Email(dongyang2022@u.northwestern.edu) Wechat(outskidding)
